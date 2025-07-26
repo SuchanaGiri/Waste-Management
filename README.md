@@ -109,7 +109,7 @@ This platform enables users to:
 
     Clone the repository:
 
-git clone https://github.com/Debknata715/cleaner-waste-app.git
+
 cd cleaner-waste-app
 
     Open any .html file in your browser
@@ -134,9 +134,9 @@ cd cleaner-waste-app
 
 💬 Contact
 
-📧 Email: debkantadey29@gmail.com
+📧 Email: suchanagiri14@gmail.com
 
-Website link:-https://cleaner-one.vercel.app/
+Website link:-https://suchanagiri.github.io/Waste-Management/
 
 project View
 
